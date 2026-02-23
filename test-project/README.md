@@ -1,0 +1,2 @@
+# Test Project
+Setup check ✅
